@@ -4,3 +4,6 @@ kheer
 pasta
 
 mushroom fry
+beans
+
+pizza
